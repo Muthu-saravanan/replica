@@ -1,2 +1,0 @@
-# replica
-flipkart replica
